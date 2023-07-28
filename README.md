@@ -17,7 +17,15 @@ Regardless of what extruder and gear set you have the above information is cruci
 
 >  _A sample printer.cfg looks like this for the extruder section_  
    
-<img width="381" alt="image" src="https://github.com/DirtyKityLitter/Klipper_Tuning/assets/118041236/2c1dec2a-c8a2-40db-b8b5-9c64d243e82a">
+<img width="378" alt="image" src="https://github.com/DirtyKityLitter/Klipper_Tuning/assets/118041236/ba4662de-77c3-4ad0-8be6-3f962509a952">
+
+> Example Gear Ratios:
+   Ender 3 Sprite Extruder: 3.5:1
+   Voron 2.4 BMG Gears: 50:10
+   Prusa BMG Extruder: 3:1
+   Prusa Nextruder: 20:1
+
+
 
 
 
