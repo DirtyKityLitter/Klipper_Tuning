@@ -1,3 +1,10 @@
+words.md:
+
+<div class="pagebreak" />
+style.css:
+
+.pagebreak { page-break-after: always; }
+
 # Klipper_Tuning Voron 2.4 SB Tool Head and Sprite for Dannocluase
 My set of tuning parameters
 
@@ -14,7 +21,7 @@ The things to know and check for tuning
 
 Regardless of what extruder and gear set you have the above information is crucial.
 
-<blockquote>  _A sample printer.cfg looks like this for the extruder section_  
+>  _A sample printer.cfg looks like this for the extruder section_  
    
 [extruder]
 
