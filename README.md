@@ -6,7 +6,9 @@ This page serves as a place where I can go to find all of my tuning parameters, 
 
 The things to know and check for tuning
    
-   &#x1F535; Extruder Gear Ratio
+   &#x1F535; Extruder Gear Ratio+
+   
    &#x1F535; Extruder Microsteps
+   
    &#x1F535; Full Steps Per Rotation
 
