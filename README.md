@@ -19,8 +19,8 @@ Regardless of what extruder and gear set you have the above information is cruci
    
 <img width="378" alt="image" src="https://github.com/DirtyKityLitter/Klipper_Tuning/assets/118041236/ba4662de-77c3-4ad0-8be6-3f962509a952">
 
-> Example Gear Ratios:<br>
-   Ender 3 Sprite Extruder: 3.5:1<br>
+**Example Gear Ratios:<br>**
+  >Ender 3 Sprite Extruder: 3.5:1<br>
    Voron 2.4 BMG Gears: 50:10<br>
    Prusa BMG Extruder: 3:1<br>
    Prusa Nextruder: 20:1<br>
