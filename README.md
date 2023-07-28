@@ -5,4 +5,4 @@ This page serves as a place where I can go to find all of my tuning parameters, 
 
 
 The things to know and check for tuning
-  * Extruder Gear Ratio
+  *** Extruder Gear Ratio**
