@@ -14,8 +14,8 @@ The things to know and check for tuning
 
 Regardless of what extruder and gear set you have the above information is crucial.
 
- >  _A sample printer.cfg looks like this for the extruder section_
-  
+<blockquote>  _A sample printer.cfg looks like this for the extruder section_  
+   
 [extruder]
 
 step_pin: EBBCan: PD0
