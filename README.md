@@ -14,7 +14,9 @@ The things to know and check for tuning
 
 Regardless of what extruder and gear set you have the above information is crucial.
 
-
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
    _A sample printer.cfg looks like this for the extruder section_
   
