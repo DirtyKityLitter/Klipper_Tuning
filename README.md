@@ -16,7 +16,7 @@ Regardless of what extruder and gear set you have the above information is cruci
 
    _A sample printer.cfg looks like this for the extruder section_
    
-[extruder]
+_[extruder]
 step_pin: EBBCan: PD0
 dir_pin: EBBCan: PD1
 enable_pin: !EBBCan: PD2
@@ -40,4 +40,4 @@ pressure_advance: 0.03005
 [tmc2209 extruder]
 uart_pin: EBBCan: PA15
 run_current: 0.650
-stealthchop_threshold: 999999
+stealthchop_threshold: 999999_
