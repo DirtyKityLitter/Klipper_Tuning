@@ -1,9 +1,3 @@
-words.md:
-
-<div class="pagebreak" />
-style.css:
-
-.pagebreak { page-break-after: always; }
 
 # Klipper_Tuning Voron 2.4 SB Tool Head and Sprite for Dannocluase
 My set of tuning parameters
